@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akkamiidox-za.github.io/zakariyae-digital/sitemap.xml
